@@ -1,7 +1,7 @@
 # HSR-P
 We provide an HSR-P.xlsx file from the HSR-JR680 industrial robot, which contains four subsets: HSR-P1, HRS-P2, HRS-P3, and HRS-AC. HSR-P1, HRS-P2, and HRS-P3 correspond to three different planes: a plane parallel to the ground, a plane at a 45-degree angle to the ground, and a plane perpendicular to the ground, respectively. Each of them contains 800 samples. The HRS-AC dataset consists of 200 re-measured data points after robot compensation.”. Note that each sample contains six joint angles (q1, q2, q3, q4, q5, q6 ), a corresponding cable length (L) and a reading of the dial indicator (D). We combine the HSR-P1, HRS-P2, HRS-P3, and HRS-AC into HRS-P.
 
-(1)Z. Li, S. Li, and X. Luo, “An Overview of Calibration Technology of Industrial Robots,” IEEE/CAA J. Autom. Sinica, vol. 8, no. 1, pp. 23-36, Jan. 2021.
+(1)Z. Li, S. Li and X. Luo, "An overview of calibration technology of industrial robots," IEEE/CAA Journal of Automatica Sinica, vol. 8, no. 1, pp. 23-36, Jan. 2021.
 
 (2)T. Chen, S. Li, Y. Qiao, and X. Luo, "A Robust and Efficient Ensemble of Diversified Evolutionary Computing Algorithms for Accurate Robot Calibration," IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-14, 2024, Art no. 7501814.
 
