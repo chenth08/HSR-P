@@ -1,13 +1,14 @@
 # HSR-P
-We provide a HSR-P.xlsx from an HSR-JR680 industrial robot, which contains three sub-datasets corresponding to three planes. Each dataset contains 800 samples collected from a plane parallel to the ground, a plane at an angle of 45 degrees and a plane that to perpendicular to the ground. Note that each sample contains six joint angles (q1, q2, q3, q4, q5, q6 ), a corresponding cable length (L) and a reading of the dial indicator (D). We combine the HSR-P1, HRS-P2 and HRS-P3 into HRS-P.
+We provide an HSR-P.xlsx file from the HSR-JR680 industrial robot, which contains four subsets: HSR-P1, HRS-P2, HRS-P3, and HRS-AC. HSR-P1, HRS-P2, and HRS-P3 correspond to three different planes: a plane parallel to the ground, a plane at a 45-degree angle to the ground, and a plane perpendicular to the ground, respectively. Each of them contains 800 samples. The HRS-AC dataset consists of 200 re-measured data points after robot compensation.”. Note that each sample contains six joint angles (q1, q2, q3, q4, q5, q6 ), a corresponding cable length (L) and a reading of the dial indicator (D). We combine the HSR-P1, HRS-P2 and HRS-P3 into HRS-P.
+
 (1)Z. Li, S. Li, and X. Luo, “An Overview of Calibration Technology of Industrial Robots,” IEEE/CAA J. Autom. Sinica, vol. 8, no. 1, pp. 23-36, Jan. 2021.
 
-(2)Z. Li, S. Li, and X. Luo, “Data-driven Industrial Robot Arm Calibration: A Machine Learning Perspective,” 18th IEEE International Conference on Networking, Sensing and Control, 2021.
+(2)T. Chen, S. Li, Y. Qiao, and X. Luo, "A Robust and Efficient Ensemble of Diversified Evolutionary Computing Algorithms for Accurate Robot Calibration," IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-14, 2024, Art no. 7501814.
 
-(3)Z. Li, S. Li, O. O. Bamasag, A. Alhothali and X. Luo, “Diversified Regularization Enhanced Training for Effective Manipulator Calibration,” IEEE Trans. Neural Networks and Learning Systems, DOI: 10.1109/TNNLS.2022.3153039.
+(3)Z. Li, S. Li, O. O. Bamasag, A. Alhothali, and X. Luo, "Diversified Regularization Enhanced Training for Effective Manipulator Calibration," IEEE Transactions on Neural Networks and Learning Systems, vol. 34, no. 11, pp. 8778-8790, Nov. 2023.
 
-(4)Z. Li, S. Li, and X. Luo, Using Quadratic Interpolated Beetle Antennae Search to Enhance Robot Arm Calibration Accuracy[J]. IEEE Robotics and Automation Letters, 2022, DOI: 10.1109/LRA.2022.3211776.
+(4)Z. Li, S. Li, and X. Luo, "Using Quadratic Interpolated Beetle Antennae Search to Enhance Robot Arm Calibration Accuracy," IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 12046-12053, Oct. 2022.
 
-(5)Z. Li, S. Li, A. Francis and X. Luo, "A Novel Calibration System for Robot Arm via An Open Dataset and A Learning Perspective," IEEE Transactions on Circuits and Systems II: Express Briefs, 2022, doi: 10.1109/TCSII.2022.3199158.
+(5)Z. Li, S. Li, A. Francis and X. Luo, "A Novel Calibration System for Robot Arm via an Open Dataset and a Learning Perspective," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 12, pp. 5169-5173, Dec. 2022.
 
-机器人HSR-P数据集解读https://zhuanlan.zhihu.com/p/573903940
+Interpretation of the HSR-P robot dataset: https://zhuanlan.zhihu.com/p/573903940
